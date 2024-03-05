@@ -2,10 +2,10 @@
 
 ## Hardware
 
-The machine learning models in this repository were trained using NVIDIA GPUs GTX-970 and A100 in the cloud.
-
+The machine learning models in this repository were trained using NVIDIA GPUs GTX-970 (local-machine) and A100 in the (cloud IaaS Azure).
 For detailed instructions on running the code and reproducing the results, please refer to the documentation in the repository.
 
+### By Mohammed A. Shehab
 ## Overview
 
 This repository contains implementations and examples of various machine-learning algorithms and concepts. The focus is on understanding and applying these algorithms in a practical setting.
