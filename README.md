@@ -1,4 +1,4 @@
-# Machine Learning Algorithms Repository
+# Deep Learning Algorithms
 
 ## Hardware
 
