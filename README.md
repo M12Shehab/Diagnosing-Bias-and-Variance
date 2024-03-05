@@ -58,4 +58,4 @@ Results of training the neural network with regularization (L1, L2) are provided
 The results of all three models (complex, simple, and regularized) are compared regarding performance metrics and computational efficiency.
 
 ## Source code:
-[Jupyter Notebook](ApplyingMachineLearning.ipynb)
+[Jupyter Notebook](Applying_Machine_Learning.ipynb)
